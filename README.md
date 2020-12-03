@@ -1,8 +1,8 @@
 ### Hi there, i'm zane - A self taught learning developer! 👋
 
-***Currently working on the following languages:***
-***- Python***
-***- Node JS***
+**Currently working on the following languages:**
+- Python
+- Node JS
 
 
 
