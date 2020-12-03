@@ -4,7 +4,5 @@
 - Python
 - Node JS
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zanesense)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats.](https://github-readme-stats.vercel.app/api?username=zanesense)](https://zanesense.github.io)
 
