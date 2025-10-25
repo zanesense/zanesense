@@ -1,1 +1,3 @@
-`the depths of hell is where we belong.`
+```html
+<script> console.warn("hell isn’t fire — it’s infinite recursion."); </script>
+```
