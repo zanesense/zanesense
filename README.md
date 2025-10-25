@@ -1,1 +1,1 @@
-`Knowledge is destruction`
+`the depths of hell is where we belong.`
