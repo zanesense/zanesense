@@ -1,3 +1,1 @@
-```
-hell isn’t fire — it’s infinite recursion.
-```
+`hell isn’t fire — it’s infinite recursion.`
