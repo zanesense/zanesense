@@ -1,3 +1,1 @@
-`hell isn’t fire — it’s infinite recursion.`
-
-![GitHub User's stars](https://img.shields.io/github/stars/zanesense)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zanesense?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
